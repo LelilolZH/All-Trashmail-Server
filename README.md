@@ -1,6 +1,6 @@
 # All-Trashmail-Server
-I update this file always, and put in to the array all trashmail server
-if you have any other trashmail server which are not on this list, please contact me under leviboysaminskij@gmail.com
+In this array bellow I added already over 800 trashmail server,
+if you have any other trashmail server which are not on this array, please contact me under leviboysaminskij@gmail.com
 
 # Here the PHP ARRAY:
 
