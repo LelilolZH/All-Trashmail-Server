@@ -5,7 +5,7 @@ if you have any other trashmail server which are not on this list, please contac
 # Here the PHP ARRAY:
 
 ###################################################################################################
-<?php $spam_domains = array("you-spam.com",
+$spam_domains = array("you-spam.com",
 "trash-mail.com",
 "re-gister.com",
 "fake-box.com",
@@ -815,5 +815,4 @@ if you have any other trashmail server which are not on this list, please contac
 "gomen-da.com",
 "getnada.com"
 );
-?>
 ######################################################################################
