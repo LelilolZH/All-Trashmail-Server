@@ -1,5 +1,5 @@
 # All-Trashmail-Server
-In this array bellow I added already over 800 trashmail server,
+In this array bellow I added already over 2000 trashmail server,
 if you have any other trashmail server which are not on this array, please contact me under leviboysaminskij@gmail.com
 
 note: some of them are double in this list becouse i was jous adding them the whole time ;)
